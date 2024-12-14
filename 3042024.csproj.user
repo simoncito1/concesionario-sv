@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="bmw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="catalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="comprar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="daf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detallesMT15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Foton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kawasaki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nizzan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="parqueadero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="servicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="verparquea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="visualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Xmarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yamaha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
